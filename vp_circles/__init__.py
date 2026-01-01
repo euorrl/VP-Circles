@@ -12,7 +12,7 @@ from .plot_vp_circles import plot_vp_circles
 
 __all__ = [
     "__version__",
-    "centralization_C",
+    "centralization",
     "disk_kernel",
     "fft_convolve2d",
     "sum_of_two_squares_in_range",
