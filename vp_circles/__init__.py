@@ -2,7 +2,7 @@ from __future__ import annotations
 
 __version__ = "0.1.0"
 
-from .centralization import centralization_C
+from .centralization import centralization
 from .disk_kernel import disk_kernel
 from .fft_convolve2d import fft_convolve2d
 from .find_sum_of_squares import sum_of_two_squares_in_range
