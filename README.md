@@ -146,6 +146,9 @@ Each script focuses on a specific task and can be executed independently.
 
 ### Overview
 
+- **`demo_gpw_v4.py`**  
+  Using the 2020 global population weight data `gpw_v4_population_comnt_dev11_2020_1_deg.asc` as input, calculate and plot the VP circle.
+
 - **`demo_find_vp_circles.py`**  
   Core example demonstrating how to compute VP circles from a population raster for a given target fraction `f`.
 
